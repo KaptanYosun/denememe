@@ -1,0 +1,63 @@
+﻿{"yemekler":[
+    { 
+        "yemek_id":1,
+        "yemak_adi":"Salla",
+        "yemek_aciklama":"Bos",
+        "yemek_tur":"yok",
+        "yemek_pisirme_suresi":"Yok",
+        "yemek_hazirlama_suresi":"Kemal",
+        "yemek_kisi_sayısı":"kemal",
+        "yemek_resim":"kemal",
+        "yemek_malzemesi":"kemal",
+        
+    },
+     { 
+        "yemek_id":2,
+        "yemak_adi":"Salla",
+        "yemek_aciklama":"Bos",
+        "yemek_tur":"yok",
+        "yemek_pisirme_suresi":"Yok",
+        "yemek_hazirlama_suresi":"Kemal",
+        "yemek_kisi_sayısı":"kemal",
+        "yemek_resim":"kemal",
+        "yemek_malzemesi":"kemal",
+        
+    },
+     { 
+        "yemek_id":3,
+        "yemak_adi":"Salla",
+        "yemek_aciklama":"Bos",
+        "yemek_tur":"yok",
+        "yemek_pisirme_suresi":"Yok",
+        "yemek_hazirlama_suresi":"Kemal",
+        "yemek_kisi_sayısı":"kemal",
+        "yemek_resim":"kemal",
+        "yemek_malzemesi":"kemal",
+        
+    },
+     { 
+        "yemek_id":4,
+        "yemak_adi":"Salla",
+        "yemek_aciklama":"Bos",
+        "yemek_tur":"yok",
+        "yemek_pisirme_suresi":"Yok",
+        "yemek_hazirlama_suresi":"Kemal",
+        "yemek_kisi_sayısı":"kemal",
+        "yemek_resim":"kemal",
+        "yemek_malzemesi":"kemal",
+        
+    },
+     { 
+        "yemek_id":5,
+        "yemak_adi":"Salla",
+        "yemek_aciklama":"Bos",
+        "yemek_tur":"yok",
+        "yemek_pisirme_suresi":"Yok",
+        "yemek_hazirlama_suresi":"Kemal",
+        "yemek_kisi_sayısı":"kemal",
+        "yemek_resim":"kemal",
+        "yemek_malzemesi":"kemal",
+        
+    },
+    
+]}
